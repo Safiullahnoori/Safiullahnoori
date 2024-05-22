@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Safiullahnoori
+- 👋 Hi, I’m Safiullah Noori
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java Python C#
